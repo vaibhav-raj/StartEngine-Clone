@@ -10,7 +10,7 @@
 
  ##### Executing the commands mentioned below one by one in command line to run the application locally
 
-* *git clone https://github.com/Rushikesh2503/StartEngine.git*
+* *git clone https://github.com/vaibhav-raj/StartEngine-Clone.git
 
 * *cd ./startengine*
 
