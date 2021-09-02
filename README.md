@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# *StartEngine*
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+*This is a working clone of the StartEngine website, this project has been done in order to learn the basic working of a website by implementing CSS3, JavaScript, ES6, JSON, JS DOM and React(Components). Working on this project helps to learn a lot of new things that goes into building a website. This is our collaborative project under the guidance of MASAI Team to facilitate the full stack web development curriculam.* 
 
-## Available Scripts
+## Uses
 
-In the project directory, you can run:
+*We can invest early growth companies and startups through this website.*
 
-### `npm start`
+## Setup for running the application locally(Steps)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+ ##### Executing the commands mentioned below one by one in command line to run the application locally
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+* *git clone https://github.com/Rushikesh2503/StartEngine.git*
 
-### `npm test`
+* *cd ./startengine*
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* *npm install*
+* *npm i react-router-dom*
+* *npm i react-icons*
+* *npm i uuid*
+* *npm i axios*
 
-### `npm run build`
+* *json-server --watch db.json --port 3001*
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* *npm start*
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ ##### After Entering the commands mentioned above,open http://localhost:3000 to view the web application in the browser
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Pages Build
 
-### `npm run eject`
+* *Landing Page*
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* *Get Funding Page*
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* *Start Investing Page*
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+* *Different Companies about & update pages*
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Functionalities Added
 
-## Learn More
+* Responsiveness in Landing page*
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* Reroute from one page to another*
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Team Members
 
-### Code Splitting
+* *Vaibhav Raj*
+* *Rushikesh Bambadkar*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Tech Stack
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* *React Icons*
+* *Axios*
+* *react-route-dom*
+* *uuid*
+* *GIT*
+* *JSON Server*
 
-### Making a Progressive Web App
+## Demo Image of Our Cloned Website
+![startengine](https://user-images.githubusercontent.com/82999542/126889562-f1a70a64-4d3e-49b6-ab55-e8d3e0aa7527.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+## Note:
+*All the images and icon links have been taken from main website and some other internet sources and may be subject to copyright so try not to use the images or icons for business purposes or reproduce them without their approval on the owner of the images and icons used here are just for the making this project and for learning purpose.*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
