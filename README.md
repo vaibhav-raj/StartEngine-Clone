@@ -1,66 +1,70 @@
-# *StartEngine*
+# Getting Started with Create React App
 
-*This is a working clone of the StartEngine website, this project has been done in order to learn the basic working of a website by implementing CSS3, JavaScript, ES6, JSON, JS DOM and React(Components). Working on this project helps to learn a lot of new things that goes into building a website. This is our collaborative project under the guidance of MASAI Team to facilitate the full stack web development curriculam.* 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Uses
+## Available Scripts
 
-*We can invest early growth companies and startups through this website.*
+In the project directory, you can run:
 
-## Setup for running the application locally(Steps)
+### `npm start`
 
- ##### Executing the commands mentioned below one by one in command line to run the application locally
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-* *git clone https://github.com/vaibhav-raj/StartEngine-Clone.git
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-* *cd ./startengine*
+### `npm test`
 
-* *npm install*
-* *npm i react-router-dom*
-* *npm i react-icons*
-* *npm i uuid*
-* *npm i axios*
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-* *json-server --watch db.json --port 3001*
+### `npm run build`
 
-* *npm start*
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
- ##### After Entering the commands mentioned above,open http://localhost:3000 to view the web application in the browser
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## Pages Build
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-* *Landing Page*
+### `npm run eject`
 
-* *Get Funding Page*
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-* *Start Investing Page*
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-* *Different Companies about & update pages*
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-## Functionalities Added
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-* Responsiveness in Landing page*
+## Learn More
 
-* Reroute from one page to another*
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-## Team Members
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-* *Vaibhav Raj*
-* *Rushikesh Bambadkar*
+### Code Splitting
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-## Tech Stack
+### Analyzing the Bundle Size
 
-* *React Icons*
-* *Axios*
-* *react-route-dom*
-* *uuid*
-* *GIT*
-* *JSON Server*
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-## Demo Image of Our Cloned Website
-![startengine](https://user-images.githubusercontent.com/82999542/126889562-f1a70a64-4d3e-49b6-ab55-e8d3e0aa7527.png)
+### Making a Progressive Web App
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-## Note:
-*All the images and icon links have been taken from main website and some other internet sources and may be subject to copyright so try not to use the images or icons for business purposes or reproduce them without their approval on the owner of the images and icons used here are just for the making this project and for learning purpose.*
+### Advanced Configuration
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
