@@ -15,7 +15,7 @@ Executing the commands mentioned below one by one in your command line will help
 **Cloning**
 
 ```
-https://github.com/Rushikesh2503/StartEngine.git
+https://github.com/vaibhav-raj/StartEngine-Clone.git
 
 npm install
 
