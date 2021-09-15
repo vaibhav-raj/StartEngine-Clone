@@ -10,7 +10,7 @@ export default function Card() {
   const [data, setData] = React.useState([]);
 
   const fetchData = async () => {
-    const response = await axios.get(`https://rushiapptest.herokuapp.com/data`);
+    const response = await axios.get(`https://vaibhav-api-data.herokuapp.com/data`);
     const { data } = response;
     setData(data);
   };
